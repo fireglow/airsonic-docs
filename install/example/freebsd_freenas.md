@@ -108,7 +108,7 @@ Create directories and set up permissions:
 ```
 mkdir /var/airsonic
 chown -R www:www /var/airsonic
-chown -R www:www /usr/local/apache-tomcat-8.0/webapps
+chown -R www:www /usr/local/apache-tomcat-8.5/webapps
 ```
 
 #### Start Tomcat
